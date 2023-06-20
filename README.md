@@ -1,4 +1,4 @@
-Hi there, I am a penultimate year student in NTU pursuing a degree in Mechanical Engineering (Robotics & Mechatronics Stream), with a Second Major in Business, aspiring to become a Robotics Software Engineer. 
+Hi there, I am a penultimate year student in NTU pursuing a degree in Mechanical Engineering (Robotics & Mechatronics Stream), with a Second Major in Business. As an aspiring Robotics Software Engineer, I have taken up a few projects, such as a low-cost earthquake warning system prototype and a smart bus stop prototype powered by an Arduino. 
 
 <!--
 **znpok/znpok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
