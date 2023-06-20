@@ -1,5 +1,5 @@
-### Hi there 👋
-I am an aspiring Robotics Software Engineer. I am a penultimate year student in NTU pursuing a degree in Mechanical Engineering (Robotics & Mechatronics Stream), with a Second Major in Business.
+Hi there, I am a penultimate year student in NTU pursuing a degree in Mechanical Engineering (Robotics & Mechatronics Stream), with a Second Major in Business, aspiring to become a Robotics Software Engineer. 
+
 <!--
 **znpok/znpok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
